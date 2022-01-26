@@ -20,7 +20,7 @@ const questions = [{
     name: "Table of Contents"
 }, {
     type: "input",
-    message: "What does the user need to install to run this app (ie...dependencies)?",
+    message: "What does the user need to install to run this app (ex...dependencies)?",
     name: "Installation"
 }, {
     type: "input",
@@ -28,7 +28,7 @@ const questions = [{
     name: "Usage"
 }, {
     type: "input",
-    message: "What liscence is being used? (ie...MIT)",
+    message: "What liscence is being used?",
     name: "License"
 }, {
     type: "input",

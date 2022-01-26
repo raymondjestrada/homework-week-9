@@ -17,7 +17,7 @@ In order to use this app, run the app in the terminal/gitbash
 This project is licensed under the MIT license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributing
-​Contributors: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+​Contributors: N/A
 ## Tests
 The following is needed to run the test: node index.js
 ## Questions
