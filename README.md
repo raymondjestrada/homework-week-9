@@ -13,6 +13,13 @@ This app allows developers to create a professional README.md file in a way that
 The following necessary dependencies must be installed to run the application properly: inquire, fs, util
 ## Usage
 In order to use this app, run the app in the terminal/gitbash
+
+`npm i`
+
+`node index.js`
+
+A shot video [Example](https://drive.google.com/file/d/1Z3AFtEJxHchy3ibFPpX2S1YvxYDDzfBr/preview)
+
 ## License
 This project is licensed under the MIT license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
