@@ -18,7 +18,7 @@ In order to use this app, run the app in the terminal/gitbash
 
 `node index.js`
 
-A shot video [Example](https://drive.google.com/file/d/1Z3AFtEJxHchy3ibFPpX2S1YvxYDDzfBr/preview)
+A shot video [Example](https://watch.screencastify.com/v/ROtT07svJFNlv2ryakQb)
 
 ## License
 This project is licensed under the MIT license. 
