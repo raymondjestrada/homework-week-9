@@ -3,7 +3,7 @@
 function generateMarkdown(data) {
   return `
 # ${data.Title}
-https://github.com/${data.Username}/${data.Title}
+https://github.com/${data.Username}/${data.repo}
 # Description
 ${data.Description}
 # Table of Contents 
